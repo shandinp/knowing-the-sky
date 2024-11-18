@@ -11,18 +11,18 @@ We assert that both Native cosmologies and Western scientific disciplines are le
 
 ### Who is this for?
 
-*Knowing the Sky* aims for a broad audience. Anyone from interested laypeople to experienced scientists can benefit from this course. This project looks to fill the gap of training materials in the intermediate to advanced space. While there are hundreds of resources available online for the very basics of Python and detailed documentation of specific packages for highly advanced users, **Knowing the Sky** targets the space inbetween. We link to both more introductory and more advanced content as we move through the lessons so those with either the need for more explanation or the want to go deeper into a given topic can do so. 
+*Knowing the Sky* aims for a broad audience. Anyone from interested laypeople to experienced scientists can benefit from this course. This project looks to fill the gap of training materials in the intermediate to advanced space. While there are hundreds of resources available online for the very basics of Python and detailed documentation of specific packages for highly advanced users, **Knowing the Sky** targets the space in-between. We link to introductory and more advanced content as we move through the lessons. Those with the need for more explanation or that want to go deeper into a given topic can do so. 
 
 We heavily encourage users that have experience with other closed-source languages popular in planetary science and astronomy such as IDL and Matlab to take advantage of these resources. Throughout the lessons we point out major differences between these languages and Python so your transition to open science is made easier.
 
 ### What will I learn?
 
-This course is meant to help users gain several types of competency necessary to build the open science ecosystem and facilitate scientific research:
-accessing and analyzing publicly-available NASA data (including cloud-based datasets) 
+This course is meant to help users gain several types of competencies necessary to build the open science ecosystem and facilitate scientific research, including:
+Accessing and analyzing publicly-available NASA data (including cloud-based datasets) 
 using both general and discipline-specific open-source software libraries for data access, manipulation, analysis, and visualization
 creating, managing, and sharing open science workflows.
 
-Feel free to pursue our [table of contents](table_of_contents.md) to get an idea of what the lessons cover. There are also learning objectives that cover the skills taught and python packages introduced at the beginning of each lesson. You may start on the lessons that interest you the most, but be aware that later lessons assume you are familiar with the skills taught within the prior lessons and narrative content builds on prior notebooks within a given section.
+Feel free to peruse our [table of contents](table_of_contents.md) to get an idea of what the lessons cover. There are also learning objectives that cover the skills taught and Python packages introduced at the beginning of each lesson. You may start on the lessons that interest you the most, but be aware that later lessons assume you are familiar with the skills taught within the prior lessons and that previous narrative content builds on prior notebooks within a given section.
 
 ### About the creators
 
